@@ -9,7 +9,7 @@ By **retraining a state-of-the-art deep learning model** on a specialized datase
 
 And here’s where it gets exciting for you. This guide will walk you through **fine-tuning a skin cancer classification model** and **deploying it on Vipas.AI**, where you can **monetize your AI expertise** and reach a global audience. Whether you’re an AI engineer, researcher, or healthcare innovator, this is your chance to turn your AI skills into real impact.
 
-🔗 **Full Technical Guide:** [Skin Cancer Classification on Vipas.AI](https://docs.vipas.ai/examples/skin-cancer-classification)
+🔗 **Full Technical Guide:** [Skin Cancer Classification on Vipas.AI]([https://docs.vipas.ai/examples/skin-cancer-classification](https://www.linkedin.com/pulse/healthcare-ai-innovation-publish-skin-cancer-model-reach-jayanna-xihoc/)
 
 ## Key Features
 ✅ **AI-Powered Skin Cancer Detection** – Leverages deep learning for high-accuracy classification  
