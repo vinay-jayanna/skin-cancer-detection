@@ -1,0 +1,9 @@
+{
+    "name": "<model-service-name>",
+    "implementation": "custom_runtime.SkinCancerModel",
+    "parameters": {
+      "version": "v1",
+      "uri": "/app/resnet50_skin_cancer_model.pth"
+    }
+  }
+  
